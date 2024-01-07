@@ -94,13 +94,5 @@ a. Métodos HTTP: GET
 b. Endpoint:
 localhost:8080/ventas/mayor_venta
 Tener en cuenta patrón DTO para este escenario
-8. BONUS (OPCIONAL)
-a. Se considera bonus cualquier propuesta de end-point, mejora, agregado de clase,
-etc que se proponga e implemente.
-b. Este apartado es opcional y pretende dejar volar la creatividad a la hora de proponer
-qué otras necesidades/requerimientos podrían existir en este escenario.
-c. En caso de llevar a cabo este punto, especificar en un documento el/los nuevo/s
-requerimientos planteados y sus correspondientes especificaciones técnicas
-(método HTTP, endpoint, etc). Tomar como ejemplo de plantilla para la
-especificación a las consignas de este enunciado.
+
 
