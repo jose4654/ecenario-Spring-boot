@@ -103,32 +103,4 @@ c. En caso de llevar a cabo este punto, especificar en un documento el/los nuevo
 requerimientos planteados y sus correspondientes especificaciones técnicas
 (método HTTP, endpoint, etc). Tomar como ejemplo de plantilla para la
 especificación a las consignas de este enunciado.
-Formato de Entrega
-El proyecto Final se entregará mediante un repositorio de GitHub. Cada participante del curso
-creará su repositorio remoto y subirá allí su proyecto. Es importante que el proyecto esté o
-con privacidad pública o compartido a la cuenta todocodeacademy@gmail.com.
-De deberá enviar un mail con el link al repositorio al correo admin@todocodeacademy.com
-bajo el asunto “EntregaFinalSpringBoot” (por favor respetar dicho asunto para que entre
-dentro del filtro correspondiente).
-Es importante incluir TODOS LOS ARCHIVOS del proyecto, para asegurar la correcta ejecución
-del mismo.
-5
-Al mismo tiempo, incluir la colección de Postman utilizada para realizar las pruebas (esto
-puede incluirse en un link de descarga dentro del README de Github o en un archivo adjunto
-dentro del proyecto, como se prefiera).
-Recordar que la entrega de este TP Final está contemplada únicamente para quienes estén
-bajo la modalidad “mixta”.
-Aquellos que estén únicamente bajo modalidad “on demand”, pueden optar por realizar la
-actividad pero la misma no será corregida y/o tendrá devolución alguna por parte de algún
-facilitador.
-Consideraciones
-• En caso de que estés realizando este curso mediante modalidad mixta (on demand +
-encuentros virtuales), deberás presentar este proyecto dentro de las dos semanas
-siguientes a la finalización oficial del curso y de los 3 encuentros virtuales. Tu facilitador
-en cuestión te indicará la misma.
-• En caso de que estés cursando este curso únicamente en modalidad “on demand” (tal
-como se especificó anteriormente), podés realizar la actividad pero la misma no será
-corregida ni tendrá asesoramiento o devolución por parte de algún facilitador. Al
-mismo tiempo, tampoco obtendrás el certificado de aprobación de práctica
-correspondiente, únicamente el de contenido teórico una vez aprobado el examen
-final.
+
